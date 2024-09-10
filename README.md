@@ -1,2 +1,3 @@
-# forge_2d
-This is a 2d game created using Flutter and Flame game engine
+# forge2d_game
+
+A new Flutter project.
